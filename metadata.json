@@ -1,0 +1,9 @@
+{
+  "name": "carelink",
+  "description": "An AI-powered healthcare platform for Elder Care, Women Care, and Skin Care with integrated voice assistance and emergency SOS features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
